@@ -25,6 +25,10 @@ public class Voiture {
         }
     }
 
+    public String getMarque() {
+        return marque;
+    }
+
     @Override
     public String toString() {
         return "Voiture{" +
