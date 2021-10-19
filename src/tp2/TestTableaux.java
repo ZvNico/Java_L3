@@ -4,7 +4,7 @@ import javax.xml.stream.FactoryConfigurationError;
 import java.util.Random;
 
 
-public abstract class TestTableaux {
+public class TestTableaux {
 
     public static void main(String[] args) {
         int[] tab = new int[10];
